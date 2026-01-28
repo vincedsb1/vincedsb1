@@ -1,83 +1,46 @@
-<div align="center">
+# Vincent Desbrosses
+### Senior Full-Stack Engineer (React / Next.js) 🇫🇷
 
-  # Hi there, I'm Vincent! 👋
+**10+ years in tech.** Combining a **Product Owner** background with engineering expertise to build robust, user-centric web applications. I bridge the gap between business needs and technical execution.
 
-  <h3>Senior Full-Stack Engineer based in France 🇫🇷</h3>
-
-  <p>
-    <b>10+ years</b> building products on the web.<br>
-    With a strong background as a <b>Product Owner</b>, I bridge business needs and technical execution.
-  </p>
-
-  <p>
-    I craft robust, scalable, high-performance applications with a <b>product mindset</b>:<br>
-    clarity, usability, accessibility, and measurable impact.
-  </p>
-
-</div>
+> *Focus: UX/UI, Accessibility, Performance, and pragmatism.*
 
 ---
 
-### 🚀 What I’m building right now
-
-#### **Allaw** — Legal matchmaking SaaS
-A platform connecting individuals with **law professionals** (lawyers, notaries).
-* **Focus:** search & discovery, booking workflows, profile quality, SEO, performance, and a clean back-office.
-
-#### **Spotter** — Chrome Extension (productivity + AI)
-A Chrome extension to **highlight custom information** on any webpage to operate faster — with **AI-powered tools** to assist workflows.
-* **Focus:** UX speed, automation, smart extraction, and reliability in real browsing contexts.
-
-#### **AIMoto** — Bitcoin forecasting platform (time-series)
-A time-series forecasting platform that trains models on **BTC/USD** + relevant market features to **predict future price movement**.
-* **Focus:** data pipelines, feature engineering, evaluation, experimentation, dashboards.
-
-#### **Truthify** — Long-form argument analysis + fact-checking SaaS
-Analyzes long texts/videos to **extract arguments**, **fact-check each claim** with sources, and provide a **global credibility score**.
-* **Focus:** structured reasoning, sourcing, summarization, trust & explainability.
-
-#### **Intrai** — Email parsing & triage assistant
-An app that helps **parse emails** and accelerate repetitive handling/processing.
-* **Focus:** categorization, extraction, routing rules, and workflow automation.
+### 🛠 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### 📱 Side projects (mobile-first)
+### 🚀 Selected Work & Experiments
 
-- **WeTrack (PWA):** Create habits, track quality/quantity **with others**, and visualize progress through charts.
-- **CodeMaster:** A gamified app to train for **technical interviews** (problems, progression, and challenge mechanics).
+Currently building SaaS platforms and tools with a focus on **automation** and **data**:
 
----
-
-### 🧰 Core stack & craft
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js (App Router), TypeScript, Tailwind CSS |
-| **Backend** | Node.js, APIs, auth flows, background jobs |
-| **Data** | PostgreSQL/MySQL, Prisma, query optimization |
-| **Quality** | UX/UI, Accessibility, Web Performance, E2E testing (Playwright) |
+* **Allaw** — Legal matchmaking SaaS connecting individuals with lawyers & notaries.
+* **Spotter** — AI-powered Chrome Extension for smart web highlighting & productivity.
+* **AIMoto** — Bitcoin price forecasting platform using time-series analysis.
+* **Truthify** — Automated fact-checking & argument analysis tool for long-form content.
+* **WeTrack (PWA)** — Mobile-first social habit tracker.
+* **CodeMaster** — Gamified technical interview training app.
 
 ---
 
-### 💎 Superpower
+### 📊 Github Activity
 
-> My Product Owner experience helps me ship the *right* features: user-first decisions, crisp scope, fast iteration, and pragmatic engineering.
+<a href="https://github.com/vincedsb1">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vincedsb1&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=444&icon_color=000&hide=stars" height="150" alt="stats" />
+</a>
+<a href="https://github.com/vincedsb1">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincedsb1&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=444" height="150" alt="langs" />
+</a>
+<br clear="all" />
 
 ---
 
-<div align="center">
-
-  ### 🔗 Links
-  [🌐 Portfolio](https://vincent.desbrosses.net) • [💼 LinkedIn](https://www.linkedin.com/in/vincent-desbrosses)
-
-  <br><br>
-
-  <a href="https://github.com/vincedsb1">
-    <img src="https://github-readme-stats.vercel.app/api?username=vincedsb1&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  </a>
-  <a href="https://github.com/vincedsb1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincedsb1&layout=compact&theme=radical&hide_border=true" height="180" alt="langs" />
-  </a>
-
-</div>
+[🌐 **Portfolio**](https://vincent.desbrosses.net)  •  [💼 **LinkedIn**](https://www.linkedin.com/in/vincent-desbrosses)

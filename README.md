@@ -34,11 +34,12 @@ Currently building SaaS platforms and tools with a focus on **automation** and *
 ### 📊 Github Activity
 
 <a href="https://github.com/vincedsb1">
-  <img align="left" src="https://github-readme-stats-six-liart-18.vercel.app/api?username=vincedsb1&show_icons=true&theme=transparent&hide_border=true&hide=stars&include_all_commits=true&rank_icon=github&border_radius=12&disable_animations=true&cache_seconds=86400&title_color=111827&text_color=4B5563&icon_color=111827&ring_color=111827
+  <img align="left" src="https://github-readme-stats-six-liart-18.vercel.app/api?username=vincedsb1&show_icons=true&theme=transparent&hide_border=true&hide=stars&include_all_commits=true&rank_icon=github&border_radius=12&cache_seconds=86400&title_color=111827&text_color=4B5563&icon_color=111827&ring_color=111827
 " height="150" alt="stats" />
 </a>
-<a href="https://github.com/vincedsb1">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincedsb1&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=444" height="150" alt="langs" />
+<a href="[https://github.com/vincedsb1">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincedsb1&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=444](https://github-readme-stats-six-liart-18.vercel.app/api/top-langs/?username=vincedsb1&layout=donut&theme=transparent&hide_border=true&border_radius=12&langs_count=6&size_weight=0.5&count_weight=0.5&cache_seconds=86400&title_color=111827&text_color=4B5563
+)" height="150" alt="langs" />
 </a>
 <br clear="all" />
 

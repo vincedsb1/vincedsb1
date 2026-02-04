@@ -47,7 +47,8 @@ Currently building SaaS platforms and tools with a focus on **automation** and *
     align="left"
     height="150"
     alt="langs"
-    src="https://github-readme-stats-six-liart-18.vercel.app/api/top-langs/?username=vincedsb1&layout=donut&theme=transparent&hide_border=true&border_radius=12&langs_count=6&size_weight=0.5&count_weight=0.5&cache_seconds=86400&title_color=111827&text_color=4B5563"
+    src="[https://github-readme-stats-six-liart-18.vercel.app/api/top-langs/?username=vincedsb1&layout=donut&theme=transparent&hide_border=true&border_radius=12&langs_count=6&size_weight=0.5&count_weight=0.5&cache_seconds=86400&title_color=111827&text_color=4B5563](https://github-readme-stats-six-liart-18.vercel.app/api?username=vincedsb1&show_icons=true&theme=transparent&hide_border=true&hide=stars,issues&include_all_commits=true&rank_icon=github&border_radius=14&cache_seconds=86400&title_color=111827&text_color=374151&icon_color=111827&ring_color=111827&custom_title=Activit%C3%A9%20GitHub
+)"
   />
 </a>
 

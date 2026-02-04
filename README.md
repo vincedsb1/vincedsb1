@@ -33,21 +33,28 @@ Currently building SaaS platforms and tools with a focus on **automation** and *
 
 ### 📊 GitHub Activity
 
+<!--
+  Rendu plus moderne :
+  - Cartes un peu plus hautes
+  - Donut agrandi + plus lisible (card_width + height + langs_count réduit)
+  - Couleurs gris/charcoal + coins arrondis
+-->
+
 <a href="https://github.com/vincedsb1">
   <img
     align="left"
-    height="150"
+    height="170"
     alt="GitHub stats"
-    src="https://github-readme-stats-six-liart-18.vercel.app/api?username=vincedsb1&show_icons=true&theme=transparent&hide_border=true&hide=stars&include_all_commits=true&rank_icon=github&border_radius=14&cache_seconds=86400&title_color=111827&text_color=374151&icon_color=111827&ring_color=111827&custom_title=Activit%C3%A9%20GitHub"
+    src="https://github-readme-stats-six-liart-18.vercel.app/api?username=vincedsb1&show_icons=true&theme=transparent&hide_border=true&hide=stars&include_all_commits=true&rank_icon=github&border_radius=16&cache_seconds=86400&title_color=111827&text_color=374151&icon_color=111827&ring_color=111827&custom_title=Activit%C3%A9%20GitHub"
   />
 </a>
 
 <a href="https://github.com/vincedsb1">
   <img
     align="left"
-    height="150"
+    height="170"
     alt="Top languages"
-    src="https://github-readme-stats-six-liart-18.vercel.app/api/top-langs/?username=vincedsb1&layout=donut&theme=transparent&hide_border=true&border_radius=14&langs_count=6&size_weight=0.5&count_weight=0.5&cache_seconds=86400&title_color=111827&text_color=374151&card_width=320"
+    src="https://github-readme-stats-six-liart-18.vercel.app/api/top-langs/?username=vincedsb1&layout=compact&theme=transparent&hide_border=true&border_radius=16&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=86400&title_color=111827&text_color=374151&card_width=420"
   />
 </a>
 
@@ -55,4 +62,8 @@ Currently building SaaS platforms and tools with a focus on **automation** and *
 
 ---
 
-[🌐 **Portfolio**](https://vincent.desbrosses.net) • [💼 **LinkedIn**](https://www.linkedin.com/in/vincent-desbrosses)
+### 🔗 Links
+
+<!-- Liens “modernes” (pas d’underline agressif) via badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vincent.desbrosses.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-desbrosses)

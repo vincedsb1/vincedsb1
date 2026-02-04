@@ -34,10 +34,10 @@ Currently building SaaS platforms and tools with a focus on **automation** and *
 ### 📊 GitHub Activity
 
 <!--
-  Rendu plus moderne :
-  - Cartes un peu plus hautes
-  - Donut agrandi + plus lisible (card_width + height + langs_count réduit)
-  - Couleurs gris/charcoal + coins arrondis
+  Ajustements :
+  - On masque les "issues" (souvent à 0) + les stars
+  - On garde un rendu clean + moderne (transparent, arrondi, cache)
+  - On force une largeur de carte pour un alignement plus cohérent
 -->
 
 <a href="https://github.com/vincedsb1">
@@ -45,7 +45,7 @@ Currently building SaaS platforms and tools with a focus on **automation** and *
     align="left"
     height="170"
     alt="GitHub stats"
-    src="https://github-readme-stats-six-liart-18.vercel.app/api?username=vincedsb1&show_icons=true&theme=transparent&hide_border=true&hide=stars&include_all_commits=true&rank_icon=github&border_radius=16&cache_seconds=86400&title_color=111827&text_color=374151&icon_color=111827&ring_color=111827&custom_title=Activit%C3%A9%20GitHub"
+    src="https://github-readme-stats-six-liart-18.vercel.app/api?username=vincedsb1&show_icons=true&theme=transparent&hide_border=true&hide=stars,issues&include_all_commits=true&rank_icon=github&border_radius=16&cache_seconds=86400&title_color=111827&text_color=374151&icon_color=111827&ring_color=111827&card_width=420&custom_title=Activit%C3%A9%20GitHub"
   />
 </a>
 
@@ -62,8 +62,15 @@ Currently building SaaS platforms and tools with a focus on **automation** and *
 
 ---
 
+### ✨ Highlights
+
+- **Full ownership**: DB → API → UI (Node/Nest, PostgreSQL, React/Next.js)
+- **Quality & delivery**: CI/CD, typed codebases, **Playwright E2E**
+- **UX-minded**: accessibility, performance, pragmatic product thinking
+
+---
+
 ### 🔗 Links
 
-<!-- Liens “modernes” (pas d’underline agressif) via badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vincent.desbrosses.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-desbrosses)

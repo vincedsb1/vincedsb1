@@ -33,19 +33,12 @@ Currently building SaaS platforms and tools with a focus on **automation** and *
 
 ### 📊 GitHub Activity
 
-<!--
-  Ajustements :
-  - On masque les "issues" (souvent à 0) + les stars
-  - On garde un rendu clean + moderne (transparent, arrondi, cache)
-  - On force une largeur de carte pour un alignement plus cohérent
--->
-
 <a href="https://github.com/vincedsb1">
   <img
     align="left"
     height="170"
     alt="GitHub stats"
-    src="https://github-readme-stats-six-liart-18.vercel.app/api?username=vincedsb1&show_icons=true&theme=transparent&hide_border=true&hide=stars,issues&include_all_commits=true&rank_icon=github&border_radius=16&cache_seconds=86400&title_color=111827&text_color=374151&icon_color=111827&ring_color=111827&card_width=420&custom_title=Activit%C3%A9%20GitHub"
+    src="https://github-readme-stats-six-liart-18.vercel.app/api?username=vincedsb1&show_icons=true&theme=transparent&hide_border=true&hide=stars,issues&include_all_commits=true&hide_rank=true&border_radius=16&cache_seconds=86400&title_color=111827&text_color=374151&icon_color=111827&ring_color=111827&card_width=420&custom_title=Activit%C3%A9%20GitHub"
   />
 </a>
 
